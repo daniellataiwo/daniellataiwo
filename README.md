@@ -1,4 +1,4 @@
-**Hi, I'm Daniella **👋
+## Hi, I'm Daniella 👋
 
 I'm an aspiring Data Analyst with a background in Engineering.
 I enjoy turning data into insights using Excel, SQL, and Power BI.
